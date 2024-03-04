@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.1c5b8b99.css",
-    "main.js": "/react-gh-pages/static/js/main.8587890d.js",
+    "main.js": "/react-gh-pages/static/js/main.e733518d.js",
     "static/js/453.4bce26e0.chunk.js": "/react-gh-pages/static/js/453.4bce26e0.chunk.js",
     "static/media/Screenshot_13.png": "/react-gh-pages/static/media/Screenshot_13.8360dfc89df5103a659a.png",
     "static/media/Screenshot_10.png": "/react-gh-pages/static/media/Screenshot_10.70b1653287138bc051b4.png",
@@ -11,11 +11,11 @@
     "static/media/Screenshot_54.png": "/react-gh-pages/static/media/Screenshot_54.cc5d1d15c93363e2c8ef.png",
     "index.html": "/react-gh-pages/index.html",
     "main.1c5b8b99.css.map": "/react-gh-pages/static/css/main.1c5b8b99.css.map",
-    "main.8587890d.js.map": "/react-gh-pages/static/js/main.8587890d.js.map",
+    "main.e733518d.js.map": "/react-gh-pages/static/js/main.e733518d.js.map",
     "453.4bce26e0.chunk.js.map": "/react-gh-pages/static/js/453.4bce26e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c5b8b99.css",
-    "static/js/main.8587890d.js"
+    "static/js/main.e733518d.js"
   ]
 }
