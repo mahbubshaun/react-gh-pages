@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mahbubshaun.github.io/static/css/main.1c5b8b99.css",
+    "main.js": "/mahbubshaun.github.io/static/js/main.b23fad1c.js",
+    "static/js/453.4bce26e0.chunk.js": "/mahbubshaun.github.io/static/js/453.4bce26e0.chunk.js",
+    "static/media/Screenshot_13.png": "/mahbubshaun.github.io/static/media/Screenshot_13.8360dfc89df5103a659a.png",
+    "static/media/Screenshot_10.png": "/mahbubshaun.github.io/static/media/Screenshot_10.70b1653287138bc051b4.png",
+    "static/media/proj6.png": "/mahbubshaun.github.io/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/Screenshot_11.png": "/mahbubshaun.github.io/static/media/Screenshot_11.d1fc9fc14723dcf37eb8.png",
+    "static/media/Screenshot_12.png": "/mahbubshaun.github.io/static/media/Screenshot_12.68cb81cc9aa8d8c6805b.png",
+    "static/media/Screenshot_54.png": "/mahbubshaun.github.io/static/media/Screenshot_54.cc5d1d15c93363e2c8ef.png",
+    "index.html": "/mahbubshaun.github.io/index.html",
+    "main.1c5b8b99.css.map": "/mahbubshaun.github.io/static/css/main.1c5b8b99.css.map",
+    "main.b23fad1c.js.map": "/mahbubshaun.github.io/static/js/main.b23fad1c.js.map",
+    "453.4bce26e0.chunk.js.map": "/mahbubshaun.github.io/static/js/453.4bce26e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5b8b99.css",
+    "static/js/main.b23fad1c.js"
+  ]
+}
